@@ -12,8 +12,6 @@
 
 ## Screenshots
 
-### Main Screen
-![Main Screen](screenshots/1.png)
 
 ### Add Node by Left Click
 ![Add Node](screenshots/2_ADD_NODE.png)
